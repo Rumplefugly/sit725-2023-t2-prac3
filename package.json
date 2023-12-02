@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rumplefugly/sit725-2023-t2-prac4.git"
+    "url": "git+https://github.com/rumplefugly/sit725-2023-t2-prac3.git"
   },
   "author": "Nathan Hughes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rumplefugly/sit725-2023-t2-prac4/issues"
+    "url": "https://github.com/rumplefugly/sit725-2023-t2-prac3/issues"
   },
-  "homepage": "https://github.com/rumplefugly/sit725-2023-t2-prac4#readme",
+  "homepage": "https://github.com/rumplefugly/sit725-2023-t2-prac3#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
